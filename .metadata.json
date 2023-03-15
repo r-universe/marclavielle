@@ -2,5 +2,9 @@
   {
     "package": "mlxR",
     "oncran": true
+  },
+  {
+    "package": "Rsmlx",
+    "oncran": true
   }
 ]
