@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mlxR"]
-	path = mlxR
-	url = https://github.com/marclavielle/mlxr
 [submodule "Rsmlx"]
 	path = Rsmlx
 	url = https://github.com/marclavielle/rsmlx
+[submodule "mlxR"]
+	path = mlxR
+	url = https://github.com/marclavielle/mlxr
