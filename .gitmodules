@@ -5,6 +5,3 @@
 [submodule "Rsmlx"]
 	path = Rsmlx
 	url = https://github.com/marclavielle/rsmlx
-[submodule "mlxR"]
-	path = mlxR
-	url = https://github.com/marclavielle/mlxr
